@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Hello, I'm 刘之博 (Zhi-Bo Liu), a Ph.D. student in Computer Science at Xi'an Jiaotong University, specializing in the field of Artificial Intelligence (AI). I hold a Bachelor's degree in Mathematics from Huazhong University of Science and Technology, and a Master's degree in Statistics from George Washington University.
+
 My research interests lie at the dynamic intersection of Computer Vision, Reinforcement Learning, and Natural Language Processing, with a particular focus on their applications in Medical AI, Green AI, and Material 
 
  <!-- [CV](https://zhibo-liu.github.io/files/cv.pdf)  -->
