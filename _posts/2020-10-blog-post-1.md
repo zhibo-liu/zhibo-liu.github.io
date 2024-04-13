@@ -1,6 +1,6 @@
 ---
 title: '浅谈人工智能方法'
-date: 2020-10
+date: 2020-10-01
 permalink: /posts/2020/10/blog-post-1/
 tags:
   - cool posts
