@@ -1,3 +1,10 @@
+---
+title: "Chair"
+sitemap: false
+permalink: /chair/
+---
+
+Sorry, but the page you were trying to view does not exist.
 # A Generative Adversarial Network for AI-Aided Chair Design
 
 ​													**[Zhibo Liu](http://zhibo-liu.com),  [Feng Gao](https://www.art.pku.edu.cn/szdw/qzjs/ysxx/gf/index.htm),  [Yizhou Wang](https://cs.pku.edu.cn/info/1180/1625.htm)**
