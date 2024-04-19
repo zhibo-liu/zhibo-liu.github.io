@@ -1,13 +1,12 @@
 ---
-title: "Chair"
+title: "A Generative Adversarial Network for AI-Aided Chair Design"
 sitemap: false
 permalink: /chair/
 ---
 
-
-# A Generative Adversarial Network for AI-Aided Chair Design
-
-​													**[Zhibo Liu](http://zhibo-liu.com),  [Feng Gao](https://www.art.pku.edu.cn/szdw/qzjs/ysxx/gf/index.htm),  [Yizhou Wang](https://cs.pku.edu.cn/info/1180/1625.htm)**
+ 
+h
+​													**[Zhibo Liu](http://zhibo-liu.com),  [Feng Gao](https://www.art.pku.edu.cn/szdw/qzjs/ysglx/gf/index.htm#),  [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm)**
 
 ​																			[**[paper]**](https://arxiv.org/abs/2001.11715)
 
@@ -43,7 +42,8 @@ For image synthesis we adopt DCGAN  architecture whose generator consists of a s
 
 ![network](/images/network.jpg)
 
-​																	  Network Architecture 
+<div style="text-align:center"><span style="color:grey; font-family:Georgia; font-size:1em;">Network Architecture </span></div>
+
 
 
 
@@ -80,7 +80,8 @@ Where $$\phi_{i,j}$$ is the feature response of $$i^{th}$$ layer and $$j^{th}$$ 
 
 ![3d](/images/3d.jpg)
 
-​																			3D Model
+<div style="text-align:center"><span style="color:grey; font-family:Georgia; font-size:1em;"> 3D Model </span></div>
+​																			
 
 
 
@@ -94,5 +95,6 @@ We select one of the candidates as design prototype and create a real life chair
 
 ![real_chair](/images/real_chair.jpg)
 
-​																				Real Chair 
+<div style="text-align:center"><span style="color:grey; font-family:Georgia; font-size:1em;"> Real Chair </span></div>
+ 
 
