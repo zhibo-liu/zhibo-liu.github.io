@@ -1,0 +1,11 @@
+@article{Liu_2019,
+   title={A Generative Adversarial Network for AI-Aided Chair Design},
+   ISBN={9781728111988},
+   url={http://dx.doi.org/10.1109/MIPR.2019.00098},
+   DOI={10.1109/mipr.2019.00098},
+   journal={2019 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)},
+   publisher={IEEE},
+   author={Liu, Zhibo and Gao, Feng and Wang, Yizhou},
+   year={2019},
+   month={Mar}
+}
