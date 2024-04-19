@@ -5,10 +5,10 @@ permalink: /chair/
 ---
 
  
-h
-​													**[Zhibo Liu](http://zhibo-liu.com),  [Feng Gao](https://www.art.pku.edu.cn/szdw/qzjs/ysglx/gf/index.htm#),  [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm)**
 
-​																			[**[paper]**](https://arxiv.org/abs/2001.11715)
+**[Zhibo Liu](http://zhibo-liu.com),  [Feng Gao](https://www.art.pku.edu.cn/szdw/qzjs/ysglx/gf/index.htm#),  [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm)**
+
+[**[paper]**](https://arxiv.org/abs/2001.11715) [**[slides]**](/files/chair-slides.pdf)  [**[cite]**](/files/chair-bibtex.txt)
 
 ---
 
@@ -76,7 +76,7 @@ Where $$\phi_{i,j}$$ is the feature response of $$i^{th}$$ layer and $$j^{th}$$ 
 
 ---
 
-**Training ** We used 2 GTX1080Ti GPUs to train image synthesis module for 200 epochs with mini-batch size of 128, learning rate of 0.0002 and Adam with $$\beta_1 = 0.9$$ . In order to improve super-resolution performance on chair data, we fine-tuned SRGAN on downscaled chair dataset. 
+**Training** We used 2 GTX1080Ti GPUs to train image synthesis module for 200 epochs with mini-batch size of 128, learning rate of 0.0002 and Adam with $$\beta_1 = 0.9$$ . In order to improve super-resolution performance on chair data, we fine-tuned SRGAN on downscaled chair dataset. 
 
 ![3d](/images/3d.jpg)
 
