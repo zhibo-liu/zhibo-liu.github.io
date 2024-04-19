@@ -14,7 +14,7 @@ My research interests lie at the dynamic intersection of Computer Vision, Reinfo
  <!-- [CV](https://zhibo-liu.github.io/files/cv.pdf)  -->
  <!-- [CV](/files/cv.pdf) -->
 
-Bridging the Gap Between AI and Design.
+<a href="/chair">Bridging the Gap Between AI and Design.</a>
 ======
 <br/><a href="chair.md"><img src='/images/chairwall.jpg'></a>
 In this work, we explore the intersection of AI and design by presenting a method that enhances human creativity in chair design. Our approach leverages the power of AI to generate numerous chair design candidates, thereby inspiring and facilitating the human designer's process. By creating sketches and 3D models based on the generated designs, we aim to bridge the gap between AI-driven innovation and human artistic expression.
