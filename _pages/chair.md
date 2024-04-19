@@ -6,9 +6,9 @@ permalink: /chair/
 
  
 
-**[Zhibo Liu](http://zhibo-liu.com),  [Feng Gao](https://www.art.pku.edu.cn/szdw/qzjs/ysglx/gf/index.htm#),  [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm)**
+**[Zhibo Liu](https://zhibo-liu.github.io),  [Feng Gao](https://www.art.pku.edu.cn/szdw/qzjs/ysglx/gf/index.htm#),  [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm)**
 
-[**[paper]**](https://arxiv.org/abs/2001.11715) [**[slides]**](/files/chair-slides.pdf)  [**[cite]**](/files/chair-bibtex.txt)
+[**[paper]**](https://arxiv.org/abs/2001.11715), [**[slides]**](/files/chair-slides.pdf), [**[cite]**](/files/chair-bibtex.txt)
 
 ---
 
