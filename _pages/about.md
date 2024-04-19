@@ -16,7 +16,7 @@ My research interests lie at the dynamic intersection of Computer Vision, Reinfo
 
 Bridging the Gap Between AI and Design.
 ======
-<br/><img src='/images/chairwall.jpg'>
+<br/><a href="chair.md"><img src='/images/chairwall.jpg'></a>
 In this work, we explore the intersection of AI and design by presenting a method that enhances human creativity in chair design. Our approach leverages the power of AI to generate numerous chair design candidates, thereby inspiring and facilitating the human designer's process. By creating sketches and 3D models based on the generated designs, we aim to bridge the gap between AI-driven innovation and human artistic expression.
 
 HistoRL.
