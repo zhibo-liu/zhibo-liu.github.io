@@ -82,7 +82,7 @@ Bachelor of Science in Applied Mathematics
 
 ## PUBLICATIONS
 
-**Zhibo Liu, Feng Gao, Yizhou Wang. A Generative Adversarial Network for AI-Aided Chair Design**. *IEEE Conference on Multimedia Information Processing and Retrieval (IEEE MIPR)**, **2019*   [project page](http://zhibo-liu.com/chair)                   
+**Zhibo Liu, Feng Gao, Yizhou Wang. A Generative Adversarial Network for AI-Aided Chair Design**. *IEEE Conference on Multimedia Information Processing and Retrieval (IEEE MIPR), 2019*   [project page](http://zhibo-liu.com/chair)                   
 
 - Presented a deep neural network designed to enhance the human process of chair design, incorporating an image synthesis module and a super-resolution module. This work represents the first instance of a physical chair created with deep neural network assistance, effectively bridging the gap between AI and design.
 
