@@ -21,5 +21,8 @@ main:
   - title: "AI Chair"
     url: /chair/
     
+  - title: "Authorship"
+    url: /authorship/
+    
   # - title: "Guide"
   #   url: /markdown/
